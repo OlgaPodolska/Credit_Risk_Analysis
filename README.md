@@ -1,2 +1,2 @@
 # Credit_Risk_Analysis
-Using Machine Learning algorithms Resampling, SMOTEENN, BalancedRandomForestClassifier and  EasyEnsembleClassifier for predict Credit Risk.
+Using Machine Learning algorithms as Resampling, SMOTEENN, BalancedRandomForestClassifier and  EasyEnsembleClassifier to predict credit risk for unbalanced credit cards datasemple.
